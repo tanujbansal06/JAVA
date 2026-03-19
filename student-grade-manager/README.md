@@ -28,9 +28,7 @@ student-grade-manager
 1. Compile the files
 
 ```
-javac Main.java
-Student.java
-GradeManager.java
+javac Main.java Student.java GradeManager.java
 ```
 
 2. Run the program
@@ -39,6 +37,7 @@ GradeManager.java
 java Main
 ```
 
+## Author
 
 Tanuj Bansal
 B.Tech CSE (AI & Data Science)
