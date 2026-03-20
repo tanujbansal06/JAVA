@@ -1,3 +1,4 @@
+//Singly linked list
 
 /*head hamesha 1st node pe point karega */
 class Node {
